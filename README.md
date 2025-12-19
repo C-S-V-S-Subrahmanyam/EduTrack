@@ -273,50 +273,6 @@ students/
 
 ---
 
-## 📥 Installation
-
-### **Prerequisites**
-- Android Studio Arctic Fox or later
-- JDK 11 or higher
-- Android device/emulator with Android 7.0+
-- Firebase project setup
-
-### **Setup Steps**
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/edutrack.git
-   cd edutrack
-   ```
-
-2. **Firebase Configuration**
-   - Create a Firebase project at [console.firebase.google.com](https://console.firebase.google.com)
-   - Enable Email/Password authentication
-   - Enable Realtime Database
-   - Download `google-services.json`
-   - Place it in `app/` directory
-
-3. **Open in Android Studio**
-   - Open Android Studio
-   - Select "Open an existing project"
-   - Navigate to the project folder
-   - Wait for Gradle sync
-
-4. **Build and Run**
-   - Connect Android device or start emulator
-   - Click "Run" button (or Shift+F10)
-   - Grant required permissions when prompted
-
-### **Permissions Required**
-- `SCHEDULE_EXACT_ALARM` - For precise alarm scheduling
-- `POST_NOTIFICATIONS` - For alarm notifications
-- `VIBRATE` - For notification vibration
-- `INTERNET` - For Firebase sync
-- `WAKE_LOCK` - To wake device for alarms
-- `RECEIVE_BOOT_COMPLETED` - To restore alarms after reboot
-
----
-
 ## 🚀 Usage Guide
 
 ### **First Time Setup**
