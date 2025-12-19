@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">EduTrack</string>
+    
+    <!-- Login & Registration -->
+    <string name="login_title">Welcome Back!</string>
+    <string name="login_subtitle">Login to continue your learning journey</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Start your educational journey today</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="new_user">New to EduTrack?</string>
+    <string name="existing_user">Already have an account?</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">EduTrack</string>
+    <string name="dashboard_subtitle">Manage your academic journey</string>
+    <string name="profile_card_title">Student Profile</string>
+    <string name="profile_card_subtitle">Manage your personal information</string>
+    <string name="attendance_card_title">Attendance Tracker</string>
+    <string name="attendance_card_subtitle">Track your class attendance</string>
+    <string name="tasks_card_title">Task Manager</string>
+    <string name="tasks_card_subtitle">Organize your assignments and tasks</string>
+    
+    <!-- Profile -->
+    <string name="profile_title">Student Profile</string>
+    <string name="profile_subtitle">Manage your personal information</string>
+    <string name="name_hint">Student Name</string>
+    <string name="roll_hint">Roll Number</string>
+    <string name="branch_hint">Branch</string>
+    <string name="save_profile">Save Profile</string>
+    
+    <!-- Attendance -->
+    <string name="attendance_title">Attendance Tracker</string>
+    <string name="attendance_subtitle">Track your class attendance</string>
+    <string name="add_subject_title">Add Subject</string>
+    <string name="add_subject_subtitle">Create a new subject for tracking</string>
+    <string name="subject_name_hint">Subject Name</string>
+    <string name="add_subject_button">Add Subject</string>
+    <string name="present_button">P</string>
+    <string name="absent_button">A</string>
+    <string name="attendance_label">Attendance:</string>
+    
+    <!-- Tasks -->
+    <string name="tasks_title">Task Manager</string>
+    <string name="tasks_subtitle">Organize your assignments</string>
+    <string name="add_task_title">Add New Task</string>
+    <string name="add_task_subtitle">Create a new assignment or task</string>
+    <string name="task_title_hint">Task Title</string>
+    <string name="task_desc_hint">Task Description</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="priority_label">Priority</string>
+    <string name="save_task">Save Task</string>
+</resources>
