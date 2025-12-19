@@ -18,6 +18,8 @@
 
 EduTrack is a modern Android application designed to help students manage their academic journey efficiently. Built with **Material Design 3** principles, the app offers a beautiful and intuitive interface while providing powerful features for attendance tracking, task management, and focus sessions.
 
+You can download it here: [Click Here](https://drive.google.com/file/d/1-5uwtr0F20kC5wt6x7dUkcaWWSvdJaTl/view?usp=drive_link)
+
 ---
 
 ## ✨ Key Features
@@ -425,15 +427,6 @@ app/src/main/java/com/example/edutrack/
 
 ---
 
-## 🐛 Known Issues & Limitations
-
-1. **Email Feature**: Opens email client, doesn't send automatically (requires user to click send)
-2. **Alarm Sound**: May not work in Doze mode on some devices (wake lock mitigates this)
-3. **Database Migration**: Upgrade from v2 to v3 required for Focus Mode feature
-4. **Offline Sync**: Tasks created offline don't sync until internet is available
-
----
-
 ## 🔮 Future Enhancements
 
 - [ ] Dark mode support
@@ -451,10 +444,10 @@ app/src/main/java/com/example/edutrack/
 
 ## 👨‍💻 Developer
 
-**Name**: [Your Name]  
+**Name**: Chinthalapati Sri Venkata Sai Subrahmanyam  
 **Email**: subrahmanyam310308@gmail.com  
-**GitHub**: [Your GitHub Profile]  
-**LinkedIn**: [Your LinkedIn Profile]  
+**GitHub**: [View My profile](https://github.com/C-S-V-S-Subrahmanyam) 
+**LinkedIn**: [Let's Connect](https://www.linkedin.com/in/subrahmanyam25)  
 
 ---
 
@@ -473,15 +466,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Email: subrahmanyam310308@gmail.com
-
----
-
-<div align="center">
 
 **Made with ❤️ for students, by a student**
 
